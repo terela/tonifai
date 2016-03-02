@@ -1,5 +1,4 @@
 """
-
 Tonifai by Alexander Terela
 
 This program allows you to input an image URL. The Clarifai API will recognize the top 5 #tags 
@@ -16,7 +15,6 @@ Soundcloud track or set of tags for a track which will query an image service ut
 Clarifai API to find the best image to use as the cover photo for the track. 
 
 Also this code is pretty janky, but it works. 
-
 """
 
 import soundcloud
